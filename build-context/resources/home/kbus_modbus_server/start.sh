@@ -20,4 +20,3 @@ run() {
 
 trap cleanup INT TERM
 run
-
